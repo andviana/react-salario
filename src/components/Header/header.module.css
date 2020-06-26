@@ -1,0 +1,12 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+}
+.inputHeader {
+  padding: 10px;
+  margin: 20px;
+}
